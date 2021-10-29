@@ -59,7 +59,8 @@ button {
 	background-color:#446688;
 } 
 .full-cont{
-    margin: 10px;
+    margin: 24px;
+    padding-top: 12px;
 }
 .flag{
     background-image: url("./photo/cai-flag-f5f4f0.jpg");
@@ -70,4 +71,15 @@ button {
     width:100px;
     margin:0 auto;
     height:133px;
+}
+.fsize{
+    width:1440px;
+}
+@media(max-width: 769px){
+    .fsize{
+        width:100%;
+    }
+    .text-center{
+        padding-left: 28px;
+    }
 }
