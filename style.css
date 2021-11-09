@@ -24,6 +24,9 @@ h4{
     line-height: 31px;
     color: #54585a;
 }
+.text-center{
+    padding-left: 7%;
+}
 p{
     font-weight: 500;
     font-size: 16px;
@@ -74,12 +77,13 @@ button {
 }
 .fsize{
     width:1440px;
+    margin: 0 auto;
 }
 @media(max-width: 769px){
     .fsize{
         width:100%;
     }
     .text-center{
-        padding-left: 28px;
+        padding-left: 5%;
     }
 }
