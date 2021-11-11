@@ -24,9 +24,6 @@ h4{
     line-height: 31px;
     color: #54585a;
 }
-.text-center{
-    padding-left: 7%;
-}
 p{
     font-weight: 500;
     font-size: 16px;
@@ -62,8 +59,12 @@ button {
 	background-color:#446688;
 } 
 .full-cont{
-    margin: 24px;
-    padding-top: 12px;
+    margin-bottom: 24px;
+    margin-right: 24px;
+    margin-left: 24px;
+
+
+
 }
 .flag{
     background-image: url("./photo/cai-flag-f5f4f0.jpg");
@@ -84,6 +85,6 @@ button {
         width:100%;
     }
     .text-center{
-        padding-left: 5%;
+        padding-left: 3%;
     }
 }
