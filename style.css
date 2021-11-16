@@ -88,3 +88,9 @@ button {
         padding-left: 3%;
     }
 }
+@media(max-width: 426px){
+    .full-cont{
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+    }
+}
